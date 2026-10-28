@@ -1,0 +1,5 @@
+﻿  TravelAgency.cpp
+  main.cpp
+C:\Labs OOP\lab3\lab3\main.cpp(3,6): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  Generating Code...
+  lab3.vcxproj -> C:\Labs OOP\lab3\x64\Debug\lab3.exe
